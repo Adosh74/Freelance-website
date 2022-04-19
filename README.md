@@ -2,7 +2,7 @@
 ----------------------------------
 # Made by: Mohamed Shebl 
 ----------------------------------
-###freelance website (PHP, OOP , MVC)
+### website (PHP, OOP , MVC)
 
 
 ## - to can use the project follow this steps
