@@ -9,7 +9,7 @@
 -----------------------------------------------
 1. ->'newproject'<- just folder name.
 2. Export "frelance.sql" to database.
-3. And add another five columns to sames database and be careful about names as sql is case sensitive.
+3. And add another five columns to same database and be careful about names as sql is case sensitive.
 	- column name:
 		- name
 		- message
